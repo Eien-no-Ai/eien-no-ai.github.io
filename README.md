@@ -32,6 +32,7 @@
         <section class="hero">
             <h1>AVANT-GARDE</h1>
             <p>Discover the beauty of art</p>
+            <a href="/app/home.blade.php" class="button">Go to Home</a> <!-- Added button with link to home.blade.php -->
         </section>
 
         <section class="gallery">
